@@ -1,0 +1,20 @@
+.table-acount {
+  width: 96%;
+}
+.label-title {
+  font-family: true;
+  margin-left: 10px;
+}
+.input-detail {
+  width: 96%;
+  margin-left: 10px;
+}
+.button-manager {
+  background-color: #722ed1;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.button-add {
+  display: flex;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+.rmdb-moviethumb img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  transition: all 0.3s;
+  box-sizing: border-box;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  opacity: 0.8;
+}
+.ant-card-meta-description {
+  color: rgb(254, 1, 1);
+}

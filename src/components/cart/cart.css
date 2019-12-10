@@ -1,0 +1,13 @@
+.ant-list-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.cartContainer {
+  background-color: white;
+}
+
+.cart{
+  width: 650px;
+  margin: 0 auto;
+}
