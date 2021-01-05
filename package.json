@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.25.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "currency-formatter": "^1.5.5",
     "nookies": "^2.0.8",
     "passport-facebook": "^3.0.0",
